@@ -12,7 +12,7 @@
 name: "CodeQL"
 
 on:
-  push:
+  push:[![CodeQL](https://github.com/Jean-sys77/Jean-sys77.github.io/actions/workflows/codeql.yml/badge.svg)](https://github.com/Jean-sys77/Jean-sys77.github.io/actions/workflows/codeql.yml)
     branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
